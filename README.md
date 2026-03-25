@@ -1,8 +1,7 @@
 # Monte Carlo Simulation of a Magnet
+- Author: Gustavo Aguilar
 
 This repository contains a Jupyter notebook that demonstrates how to simulate the behavior of a 2D array of magnetic moments (spins) using a Monte Carlo approach. It visualizes a random initial configuration of unit-length magnetic moments on a square lattice — a starting point for studying ferromagnetism, paramagnetism, and phase transitions.
-
-- Author: Gustavo Aguilar
 
 ## Overview
 
